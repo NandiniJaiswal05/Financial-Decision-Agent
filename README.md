@@ -15,7 +15,7 @@ The system determines whether a user can safely afford a requested purchase or f
 
 Here is a quick walkthrough of the **Streamlit Interactive UI**, demonstrating real-time 90-day cash flow simulation, balance trajectory charts, and instant affordability verdicts:
 
-![Streamlit Demo Walkthrough](docs/streamlit_demo.mp4)
+![Streamlit Demo Walkthrough]([docs/streamlit_demo.mp4](https://drive.google.com/file/d/1NWnkwn5k1htCY-kTEPfPaLTXSs-16XsX/view?usp=sharing))
 *(Replace or link your recorded video demonstration here)*
 
 ---
